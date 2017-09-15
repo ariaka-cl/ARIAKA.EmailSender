@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ARIAKA.EmailSender", "ARIAKA.EmailSender\ARIAKA.EmailSender.vbproj", "{D6E1AB66-3B72-4D02-B58F-08C28F548022}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ARIAKA.EmailSender.Console", "ARIAKA.EmailSender.Console\ARIAKA.EmailSender.Console.vbproj", "{4F88FE0E-564C-4CBC-AEFB-BAC17D29A932}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D6E1AB66-3B72-4D02-B58F-08C28F548022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D6E1AB66-3B72-4D02-B58F-08C28F548022}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D6E1AB66-3B72-4D02-B58F-08C28F548022}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D6E1AB66-3B72-4D02-B58F-08C28F548022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F88FE0E-564C-4CBC-AEFB-BAC17D29A932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F88FE0E-564C-4CBC-AEFB-BAC17D29A932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F88FE0E-564C-4CBC-AEFB-BAC17D29A932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F88FE0E-564C-4CBC-AEFB-BAC17D29A932}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
